@@ -1,1 +1,5 @@
-"# fast_url_shortner" 
+# FAST URL SHORTNER
+
+# DEMO
+
+https://fasturlshortner.netlify.app/
